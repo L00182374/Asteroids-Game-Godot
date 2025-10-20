@@ -1,7 +1,7 @@
 # Asteroids-Game-Godot
 An asteroids clone I made in godot
 
-Link to the Game - eagleclaw473.itch.io/godot-asteroids-clone
+Link to the Game - https://cicerolock.itch.io/meteoroids
 
 Controls:
 
